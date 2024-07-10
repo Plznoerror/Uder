@@ -1,4 +1,4 @@
-<img src="public/images/favicon.ico" width="128">  
+<img src="./screenshots/main.gif" width="320">  
   
 Uderlife
 ===========
@@ -9,8 +9,8 @@ Uderlife
 
 ## Screenshots
  
-| Main | KFC | BK | KKD |
-|---|---|---|---|
-| [![main](./screenshots/main.gif)]() | [![kfc](./screenshots/kfc.png)]() | [![bk](./screenshots/bk.png)]() | [![kkd](./screenshots/kk.png)]() |
+| KFC | BK | KKD |
+|---|---|---|
+| [![kfc](./screenshots/kfc.png)]() | [![bk](./screenshots/bk.png)]() | [![kkd](./screenshots/kkd.png)]() |
  
 
